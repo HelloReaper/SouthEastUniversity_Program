@@ -1,1 +1,3 @@
 # SouthEastUniversity_Program
+该文件夹下的文件均为大学本科期间使用VS studio 2015/2017完成的项目
+由于未经仔细整理，上传的代码均为在VS studio中创建的可执行项目
